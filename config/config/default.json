@@ -1,0 +1,8 @@
+{
+    "Init": {
+        "Connection": {
+            "host": "localhost",
+            "port": 3000
+        }
+    }
+}
